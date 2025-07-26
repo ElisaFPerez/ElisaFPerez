@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Elisa Pérez, a High school student who loves to code!
+
+- 🔭 I’m currently in the robotics Team Nautilus 4010, in the FRC competition
+- 🌱 I’m currently learning Java
+
 <!--
 **ElisaFPerez/ElisaFPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
